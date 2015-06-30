@@ -1,0 +1,4 @@
+Function Hello
+{
+  Write "Hello"
+}
